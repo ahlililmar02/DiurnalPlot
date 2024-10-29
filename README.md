@@ -1,6 +1,6 @@
 # Diurnal Atmospheric Turbulence Flux Plotter
 
-This project provides tools to analyze and visualize the **diurnal cycle of atmospheric turbulence Flux parameters**. The Python scripts in this repository help you create diurnal plots of turbulence metrics, enabling researchers to investigate daily patterns in atmospheric parameters such as wind speed, temperature, and turbulent fluxes. This script processes output from EddyPro software, a widely used tool for eddy covariance data.
+This project provides tools to analyze and visualize the **diurnal cycle of atmospheric turbulence Flux parameters**. The Python scripts enabling researchers to investigate daily patterns in atmospheric parameters such as wind speed, temperature, turbulent fluxes, etc. This script processes output from **EddyPro software**, a widely used tool for eddy covariance data.
 
 ## Features
 
@@ -21,7 +21,4 @@ Works with datasets in CSV
   - **`numpy`**: For numerical calculations
 
 
-Install dependencies via:
 
-```bash
-pip install pandas matplotlib numpy 
