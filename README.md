@@ -1,4 +1,4 @@
-Diurnal Atmospheric Parameters Plotter
+#Diurnal Atmospheric Parameters Plotter
 This project provides tools to analyze and visualize the diurnal cycle of atmospheric parameters. The Python scripts in this repository help you create diurnal plots of metrics, enabling researchers to investigate daily patterns in atmospheric parameters such as wind speed, temperature, etc. and mainly turbulent fluxes.
 
 Features
